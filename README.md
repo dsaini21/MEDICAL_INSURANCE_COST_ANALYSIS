@@ -25,16 +25,16 @@ Data source : https://www.kaggle.com/mirichoi0218/insurance
 
 ## EXPLORATORY DATA ANALYSIS (EDA)
 • Feature sex, region has an almost balanced amount, meanwhile most people are non smoker & obese <br>
-![image](https://user-images.githubusercontent.com/80570935/130601931-826570ec-df1d-4b85-918f-00eb740ed212.png)
+![image](https://github.com/dsaini21/MEDICAL_INSURANCE_COST_ANALYSIS/blob/main/images/4_Countplot_output.png)
 
 • A person who smoke and have BMI above 30 tends to have a higher medical cost <br>
-![image](https://user-images.githubusercontent.com/80570935/130602334-b62a7f7e-e1c8-45eb-be7d-ff752853d158.png)
+![image](https://github.com/dsaini21/MEDICAL_INSURANCE_COST_ANALYSIS/blob/main/images/5_Scatterplot_output.png)
 
 • Older people who smoke have more expensive charges <br>
-![image](https://user-images.githubusercontent.com/80570935/130602565-2cb73fa9-769b-4822-880e-c009d2fbef39.png)
+![image](https://github.com/dsaini21/MEDICAL_INSURANCE_COST_ANALYSIS/blob/main/images/6_Scatterplot_output.png)
 
 • People who smoke and obese have the highest average charges compared to others <br>
-![image](https://user-images.githubusercontent.com/80570935/130602770-c008fb2b-2041-440e-b92e-373e7cbed2ce.png)
+![image](https://github.com/dsaini21/MEDICAL_INSURANCE_COST_ANALYSIS/blob/main/images/barplot.png)
 ## INSIGHTS
 The insights drawn by performing `Exploratory Data Analysis` (EDA) are:
 
